@@ -26,7 +26,7 @@ The menu is displayed after starting the game, you can navigate it with your up 
 
 Press 'g' to go back to menu at all moment.
 
-The menu is displayed like this : ![Menu](Menu.jpg)
+The menu is displayed like this : ![Menu](https://github.com/meftahmanal/FancyFencing/blob/master/menu.jpg)
 
 
 
