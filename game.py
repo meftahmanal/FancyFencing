@@ -63,6 +63,7 @@ def main(stdscr):
     start_time = time.time()
 
     while True:
+        winsound.PlaySound("Music.wav", winsound.SND_ASYNC)
         win.keypad(True)
         key = win.getch()
         if key == curses.KEY_UP and current_row > 0:
