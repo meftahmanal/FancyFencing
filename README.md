@@ -26,7 +26,7 @@ The menu is displayed after starting the game, you can navigate it with your up 
 
 Press 'g' to go back to menu at all moment.
 
-The menu is displayed like this : ![Menu](C:\Users\Latitude\Documents\FancyFencing.jpg)
+The menu is displayed like this : ![Menu](Menu.jpg)
 
 
 
